@@ -22,9 +22,9 @@ Every model underwent training and assessment using the identical dataset to eva
 
 I used the following key performance metrics:
 
-**mAP@0.50 and mAP@0.50:0.95 (mean Average Precision)** as the primary indicators of detection quality
+>>> **mAP@0.50 and mAP@0.50:0.95 (mean Average Precision)** as the primary indicators of detection quality
 
-**Precision, Recall, and Accuracy** as supporting performance metrics
+>>> **Precision, Recall, and Accuracy** as supporting performance metrics
 
 🧪 **Model Testing:**
 
