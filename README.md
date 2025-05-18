@@ -14,3 +14,7 @@ Every model underwent training and assessment using the identical dataset to eva
 **About Me**
 
 I am Angelo Ballesteros, a Computer Engineering student at the Technological Institute of the Philippines – Quezon City (TIP QC). This project was completed as part of the requirements for CPE313 Data Science Track Elective 3, focusing on applying machine and deep learning techniques in real-world scenarios.
+
+**Final Model Choice**
+
+I used the YOLOv8 model in my final implementation because it achieved the highest metrics in terms of accuracy, speed, and segmentation quality among the models I evaluated.
