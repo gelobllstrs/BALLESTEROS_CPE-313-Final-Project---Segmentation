@@ -5,7 +5,7 @@ from PIL import Image
 import os
 
 # Load YOLOv8 model
-MODEL_PATH = r"C:\Users\Angelo\Desktop\ballesteros-cpe-313-final-project-segmentation\best_yolov8_model_segmentation.pt"
+MODEL_PATH = "models/best_yolov8_model_segmentation.pt"
 model = YOLO(MODEL_PATH)
 
 class_id_to_name = {
