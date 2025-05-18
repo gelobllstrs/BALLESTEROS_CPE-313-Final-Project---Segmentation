@@ -1,4 +1,4 @@
-🔥 CPE-313 Final Project Segmentation
+🔥 # **CPE-313 Final Project Segmentation**
 
 👨‍💻 About Me
 
