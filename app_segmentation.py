@@ -35,7 +35,7 @@ if uploaded_file:
 
     # Show segmentation result image
     result_img = results[0].plot()
-    st.image(result_img, caption="Segmentation Result", use_column_width=True)
+    st.image(result_img, caption="Segmentation Result", use_container_width=True)
 
     # Get detected class IDs from results
     detected_class_ids = list(set([int(c) for c in results[0].boxes.cls.cpu().numpy()]))
